@@ -1,0 +1,13 @@
+#Ignore configuration files
+.idea
+.settings
+.project
+.settings
+*.iml
+
+# Ignore third party libs
+node_modules
+bower_components
+
+#Mac OS X
+.DS_Store
